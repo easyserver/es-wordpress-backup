@@ -1,2 +1,3 @@
-# es-wp-retore
-Restore WordPress site (website and database) - backup files created by EasyServer Wordpress Backup [es-wp-backup]
+# es-wp-backup
+
+EasyServer Backup and Restore WordPress site (website and database)
